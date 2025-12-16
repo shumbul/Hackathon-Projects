@@ -4,7 +4,7 @@ At hackathons, people work together to fix problems and make cool things. These 
 
 These ideas can make you want to build something great and show what you can do. With Hackathon Project Ideas, you and your friends can think of good answers and learn a lot. It's a good way to test yourself and do something important.
 
-Hackathons are time-bound events where people collaborate to solve problems, prototype ideas, and build projects. They emphasize teamwork, creativity, and learning-by-doing. Participants form teams, pick a challenge, and work intensely to design, code, and present solutions-often over 24–48 hours.
+Hackathons are time-bound events where people collaborate to solve problems, prototype ideas, and build projects. They emphasize teamwork, creativity, and learning-by-doing. Participants form teams, pick a challenge, and work intensely to design, code, and present solutions often over 24–48 hours.
 
 ## Why They’re Valuable
 - Teamwork: You learn to collaborate across roles (dev, design, product).
