@@ -77,3 +77,7 @@ If this is your first hackathon, these tips will help you.
 | 6 | Join the event | Share ideas, build together, and attend mentor sessions. |
 | 7 | Submit and demo | Upload your project and explain what you built and why it matters. |
 | 8 | After the hackathon | Share your project online and keep improving it. |
+
+
+<!-- Curated by Shumbul Arifa <3 -->
+### Curated by Shumbul Arifa
